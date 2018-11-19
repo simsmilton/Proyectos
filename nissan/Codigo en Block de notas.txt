@@ -1,0 +1,61 @@
+<html>
+
+<title>NISSAN</title>
+
+<font face="arial" size="100" color="purple"><head><center><b>AGENCIA NISSAN</b></center></head></font><br><br>
+
+<center><img src="imagenes\imagen1.jpg" border="5" width= 400px;/></center>
+
+<body background="imagenes\imagen2.jpg"><br><br>
+
+<div style="font-size:15px; border-bottom:5px dotted #0005C3;">
+
+<font face="arial"><p align="center">
+En esta pagina podras enconctrar distinta informacion acerca de la agencia NISSAN como por
+ejemplo: ubicaciones, tipos de autos, historia, etc. Asi mismo te dara una vision mas amplia
+de los distintas marcas de coches que se manejan para que se logre tomar una decision correcta
+al momento de adquirir un coche. 
+</p></font><br>
+
+</div>
+
+<div style="font-size:50px; border-bottom:5px dotted #0005C3;">
+
+<font face="arial" size="5"><center><p>UBICACION DE LAS DISTINTAS AGENCIAS EN NUEVO LEON<P></center></font>
+<center><img src="imagenes\imagen3.png" border="5" width=1000px;/></center><br>
+
+</div>
+
+<font face="arial" size="5"><center><p>HISTORIA DE NISSAN</P></center></font>
+<font face="arial"><p align="center">La historia de Nissan se remonta a Kawaishinsha Co., una fábrica de automóviles fundada por Masujiro Hashimoto en el distrito de Azabu-Hiroo, Tokio en 1911. Hashimoto era un pionero en la industria del automóvil de Japón desde sus comienzos. En 1914, un pequeño coche de pasajeros fue desarrollado basándose en su propio diseño, y en el año siguiente el coche hizo su debut en el mercado bajo el nombre de Dat. 
+Dat representa las primeras letras de los apellidos de los tres soportes principales de Hashimoto: Kenjiro Den, Rokuro Aoyama y Meitaro Takeuchi..
+
+Jitsuyo Jidosha Co., Ltd., otro precursor de Nissan, fue establecida en Osaka en 1919 para fabricar los vehículos Gorham de tres ruedas, diseñados por el ingeniero americano William R. Gorham. Las herramientas, los componentes y los materiales fueron importados por la compañía de los Estados Unidos, convirtiéndola en una de las más modernas de aquellos tiempos.
+
+Jidosha-Seizo Kabushiki-Kaisha ("Fabricación del Automóvil" en castellano) fue establecida el 26 de diciembre de 1933, asumiendo el control de todas las operaciones para la fabricación de Datsuns de la división Tobata Co., Ltd. y su nombre fue cambiado a Nissan Motor Co., Ltd. el 1 de junio de 1934. Su fundador fue Yoshisuke Aikawa, quien tenía grandes planes para producir en masa de 10.000 a 15.000 unidades por año, y estaba a punto de poner su plan en práctica.
+</p></font><br><br>
+
+<div style="font-size:50px; border-bottom:5px dotted #0005C3;">
+
+<center><video src="videos\video1.mp4" controls border="15" width=900px;/></center><br>
+
+</div>
+
+<div style="font-size:50px; border-bottom:5px dotted #0005C3;">
+
+<font face="arial" size="5"><p align="center">A continuacion se mostraran los principales coches en venta de NISSAN Nuevo Leon (Septiembre 2018)</p></font>
+
+<center><img src="imagenes\imagen4.png" border="2" width=900px;/></center><br>
+<center><img src="imagenes\imagen5.png" border="2" width=900px;/></center><br>
+<center><img src="imagenes\imagen6.png" border="2" width=900px;/></center><br>
+<center><img src="imagenes\imagen7.png" border="2" width=700px;/></center><br>
+
+</div>
+
+<br><center><font face="arial" size="5"><a href="https://nissan.com.mx/?gclid=CjwKCAjw85zdBRB6EiwAov3Rio1MAIeH8kS2MDoGz3Tv_RftugCAPy59jQzs8zSFFqPINn8b3ykZ8hoCQaQQAvD_BwE&gclsrc=aw.ds">PAGINA OFFICIAL DE NISSAN</a></font></center><br><br><br><br><br><br><br>
+
+<font face="arial" size="6"><p>Alumno: Luis Alfredo Cazares Garza  Matricula: 1796579  Materia: Programacion Web</p></font>
+
+</body>
+
+</html>

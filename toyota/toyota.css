@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	color: red;
+	font-family:serif;
+	font-size:40px;
+}
+body{
+	text-align:center;
+	font-family:verdana;
+}
+p img{
+	height:300px;
+	width:300px;
+}
+
+div img{
+	max-height:300px;
+	height:auto;
+	width:310px;
+	margin:auto;
+}
+table{
+	margin:auto;
+}
+li{
+	text-align:left;
+}
+h1{
+	background-color:yellow;
+}
+body{
+	background-color:gray;
+}
